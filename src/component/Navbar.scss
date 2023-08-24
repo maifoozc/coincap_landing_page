@@ -1,0 +1,9 @@
+.navbar,
+.navbar_content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar_content{
+  gap:1rem
+}
